@@ -3,6 +3,10 @@ body{
     font-family: "verdana";
     font-size: 14px;
     margin: 0;
+    padding: auto;
+}
+h2{
+    font-size: 12px;
 }
 h3{
     color: rgb(88, 90, 105);
