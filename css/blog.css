@@ -22,6 +22,7 @@ img {
 .lrc {
     display: grid;
     grid-template-columns: [content-left] 1fr [content-mid] 42% [content-right] 1fr;
+    min-width: 600px;
 }
 .left {
     grid-column: content-left;
@@ -46,7 +47,6 @@ img {
     top: 0;
     left: calc(calc((100% - 42%) / 2) - 100%);
     width: calc((100%-42%)/2);
-    min width: 600pixels;
     height: 100%;
     background-color: rgb(2, 8, 6);
 } */
