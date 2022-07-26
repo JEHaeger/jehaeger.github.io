@@ -1,11 +1,6 @@
 .github/workflows/pages.yml
 name: Pages
 
-on:
-  push:
-    branches:
-      - main  # default branch
-
 
 jobs:
   pages:
