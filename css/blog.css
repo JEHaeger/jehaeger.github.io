@@ -47,6 +47,7 @@ img {
     top: 0;
     left: calc(calc((100% - 42%) / 2) - 100%);
     width: calc((100%-42%)/2);
+    min-width: 600px;
     height: 100%;
     background-color: rgb(2, 8, 6);
 } */
