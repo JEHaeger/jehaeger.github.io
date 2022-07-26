@@ -1,0 +1,13 @@
+<div class="post">
+  <!-- Title -->
+  <h2 class="post-title">
+    <%- item.title %>
+  </h2>
+  <p class="post-date">
+    <%= item.date.format(config.date_format) %>
+  </p>
+
+  <!-- Content -->
+  <%- item.content %>
+  <div class="seperator"></div>
+</div>
