@@ -1,9 +1,11 @@
+header{
+    font-size: 14px;
+}
 body{
     background-color: rgb(219, 219, 193);
     font-family: "verdana";
     font-size: 14px;
     margin: 0;
-    padding: 10px;
 }
 h3{
     color: rgb(88, 90, 105);
@@ -18,7 +20,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 50%;
 }
 .lrc {
     display: grid;
