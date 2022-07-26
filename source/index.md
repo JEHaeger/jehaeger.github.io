@@ -5,13 +5,11 @@ title: This is an author website for the author Joseph Edwin Haeger.
 ![alt text](img/JEHauthorPic.jpg)
 
 ### A little about Joe
-
 Joseph Edwin Haeger is the author of the experimental memoir *Learn to Swim* (University of Hell Press, 2015). He writes fiction, essays, poetry, and screenplays. As a litmus test, he tells people his favorite movie is *Face/Off*, but there's a part of him that's afraid it's true. 
 
 He lives in the Inland PNW.
 
 ### Selected writings
-
 - *Learn to Swim* [(University of Hell Press)](https://universityofhellpress.com/books/learn-to-swim/)
 - "Bear of a Kid" [(Vol. 1 Brooklyn)](https://vol1brooklyn.com/tag/joseph-edwin-haeger/)
 - "A Convenient Fiction: An Essay about Memory" [(Drunk Monkeys)](https://www.drunkmonkeys.us/2017-posts/2020/6/15/essay-a-convenient-fiction-an-essay-about-memory-joseph-edwin-haeger)
@@ -25,7 +23,6 @@ He lives in the Inland PNW.
 Joseph also writes book reviews and literary criticism for [The Big Smoke](https://thebigsmoke.com/author/josephedwinhaeger/), [The Poetry Question](https://thepoetryquestion.com/), and [Independent Book Review](https://independentbookreview.com/).
 
 ### Press
-
 *"*[Learn to Swim] *eschews that stereotype and allows for an honest exploration of a friendship of young boys who work well together and know it."* 
 [(Independent Book Review)](https://independentbookreview.com/2019/05/07/book-review-learn-to-swim/)
 
@@ -33,7 +30,6 @@ Joseph also writes book reviews and literary criticism for [The Big Smoke](https
 [(Drunk in a Midnight Choir)](https://drunkinamidnightchoir.wordpress.com/2016/04/20/review-learn-to-swim-by-joseph-edwin-haeger/)
 
 ### Contact
-
 If you're looking for help with your own projects, Joseph works in a few different capacities. He can assist you on the macro level with idea generation, story structure, and plotting OR he can take a micro approach and help with copyediting, story feedback, and article writing. Feel free to send him a note and he'd be more than happy to chat about what you're cooking up. 
 
 If you just wanted to drop him a line to say "hello," that'd be excellent too.
