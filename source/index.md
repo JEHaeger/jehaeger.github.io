@@ -11,7 +11,7 @@ He lives in the Inland PNW.
 
 ### Selected writings
 - *Strings* [(Anxiety Press)](https://www.amazon.com/dp/B0D7HX737B?linkCode=ssc&tag=onamzathinsli-20&creativeASIN=B0D7HX737B&asc_item-id=amzn1.ideas.1T5FJB96438FO&ref_=aip_sf_list_spv_ons_d_asin)
-- *Bardo* [(Thirty West Publishing)](https://www.thirtywestph.com/shop/p/bardo)
+- *Bardo* [(Thirty West Publishing House)](https://www.thirtywestph.com/shop/p/bardo)
 - *Learn to Swim* [(University of Hell Press)](https://university-of-hell-press.myshopify.com/products/learn-to-swim)
 - "Bear of a Kid" [(Vol. 1 Brooklyn)](https://vol1brooklyn.com/tag/joseph-edwin-haeger/)
 - "A Convenient Fiction: An Essay about Memory" [(Drunk Monkeys)](https://www.drunkmonkeys.us/2017-posts/2020/6/15/essay-a-convenient-fiction-an-essay-about-memory-joseph-edwin-haeger)
