@@ -16,7 +16,6 @@ He lives in the Inland PNW.
 - *Learn to Swim* [(University of Hell Press)](https://university-of-hell-press.myshopify.com/products/learn-to-swim)
 - "Bear of a Kid" [(Vol. 1 Brooklyn)](https://vol1brooklyn.com/tag/joseph-edwin-haeger/)
 - "A Convenient Fiction: An Essay about Memory" [(Drunk Monkeys)](https://www.drunkmonkeys.us/2017-posts/2020/6/15/essay-a-convenient-fiction-an-essay-about-memory-joseph-edwin-haeger)
-- "Two Poems" [(HAD)](https://www.havehashad.com/hadposts/two-poems-f055c4ec-cd24-4d60-94a5-be08173d1e5f)
 - "Uncle Pooh's Secret Recipe" [(X-R-A-Y)](https://xraylitmag.com/uncle-poohs-secret-recipe-by-joseph-haeger/fiction/)
 - "My Brother Justin: Living Up to Expectations" [(The Big Smoke)](https://thebigsmoke.com/2016/05/24/brother-justin-living-expectations/)
 - "We Were So Lucky" [(The Spokesman-Review)](https://www.spokesman.com/stories/2016/jul/31/summer-stories-we-were-so-lucky/)
