@@ -10,6 +10,7 @@ Joseph Edwin Haeger is the author of the experimental memoir *Learn to Swim* (Un
 He lives in the Inland PNW.
 
 ### Selected writings
+- "I'll Be Your Man Cub" from *Spokane Campfire Stories* [(Banana Slug Books)](https://www.bananaslugbooks.com/spokanecampfirestories)
 - *Let's Do Our Best to Enjoy It* [(Bottlecap Press)](https://bottlecap.press/collections/bottlecap-features/products/enjoy)
 - *Strings* [(Anxiety Press)](https://www.amazon.com/dp/B0D7HX737B?linkCode=ssc&tag=onamzathinsli-20&creativeASIN=B0D7HX737B&asc_item-id=amzn1.ideas.1T5FJB96438FO&ref_=aip_sf_list_spv_ons_d_asin)
 - *Bardo* [(Thirty West Publishing House)](https://www.thirtywestph.com/shop/p/bardo)
@@ -17,7 +18,6 @@ He lives in the Inland PNW.
 - "Bear of a Kid" [(Vol. 1 Brooklyn)](https://vol1brooklyn.com/tag/joseph-edwin-haeger/)
 - "A Convenient Fiction: An Essay about Memory" [(Drunk Monkeys)](https://www.drunkmonkeys.us/2017-posts/2020/6/15/essay-a-convenient-fiction-an-essay-about-memory-joseph-edwin-haeger)
 - "Uncle Pooh's Secret Recipe" [(X-R-A-Y)](https://xraylitmag.com/uncle-poohs-secret-recipe-by-joseph-haeger/fiction/)
-- "My Brother Justin: Living Up to Expectations" [(The Big Smoke)](https://thebigsmoke.com/2016/05/24/brother-justin-living-expectations/)
 - "We Were So Lucky" [(The Spokesman-Review)](https://www.spokesman.com/stories/2016/jul/31/summer-stories-we-were-so-lucky/)
 
 Joseph also writes book reviews for [Afterimages](https://thirtywest.substack.com/). You can find his old reviews and liteary criticism at [The Big Smoke](https://thebigsmoke.com.au/author/joseph-edwin-haeger/) and [Independent Book Review](https://independentbookreview.com/).
